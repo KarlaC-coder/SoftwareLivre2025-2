@@ -8,7 +8,7 @@
 - 1 Tradução
 - 2 
 - 3 Reportar Bug
-- 4 
+- 4 Adicionar Funcionalidade
 - 
 ## Reportar Bug
 
