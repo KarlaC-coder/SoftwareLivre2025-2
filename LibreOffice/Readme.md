@@ -1,27 +1,46 @@
 
-# Relatório do Trabalho Final - Sistema operacional Arch Linux
+# Relatório do Trabalho Final - LibreOffice
 
-- **Alunos:** Karla Alexandra Chaves.
+**Alunos:**
+  
+- Antônio José Coelho Duailibe
 
-- Dyogo Cesar
+- Dyogo Cesar Goncalves Silveira
 
-- dyogo cesar goncalves silveira
+- Karla Alexandra Chaves
 
-- **Nível:** Graduação
-- 
-## Contribuições
-- 1 
+- João Gabriel Sales Gonçales
 
-- 2 nova funcao
+- Sofia Coelho Berredo
 
-- 2 Nova funçao
->>>
-- 3 Reportar Bug
-- 4 
-- 
+**Nível:** Graduação
+  
+
+
 ## Reportar Bug
 
-- pagina da implementacao https://bugs.documentfoundation.org/show_bug.cgi?id=170036
+- Página da implementação: https://bugs.documentfoundation.org/show_bug.cgi?id=170036
 
 - Página onde o bug foi reportado ([link](https://bugs.documentfoundation.org/show_bug.cgi?id=170025)).
-- Feito por Karla Alexandra Chaves
+
+Feito por Karla Alexandra Chaves
+
+## Nova Função
+
+- Implementação de um botão para leitura, retirando de maneira automática as ferramentas de utilização e configuração de texto.
+
+- [Descrição da Nova Função](./LibreOffice/novafuncao.md)
+
+- [Apresentação da Nova Função](./LibreOffice/SUGESTÃO%20DE%20FUnÇÃO%20NO%20LIBRE%20OFICE.pdf)
+
+Feito por Dyogo Cesar
+
+## Tradução
+
+- Traduzir páginas do LibreOffice no wiki
+- Link: https://wiki.documentfoundation.org/Accessibility/Creating_Accessible_LibreOffice_Files
+
+- Prints: 
+
+
+
