@@ -56,8 +56,12 @@ Todas as contribuições seguem os princípios de colaboração aberta, software
 **Evidências:**
 
 - Documento descritivo detalhado: [Documento descritivo detalhado](novafuncao.md)  
-- Apresentação formal da proposta: [SUGESTÃO DE FUNÇÃO NO LIBREOFFICE.pdf](LibreOffice/SUGESTÃO DE FUnÇÃO NO LIBRE OFICE.pdf)  
+- Apresentação formal da proposta: [sugestaofuncaolibreoffice.pdf](sugestaofuncaolibreoffice.pdf)
 - Registro no Bugzilla (como feature request): [#170036](https://bugs.documentfoundation.org/show_bug.cgi?id=170036)
+
+**Captura da tela do feature request:**
+<img width="1900" height="1079" alt="Toggle" src="https://github.com/user-attachments/assets/5d9ec6bc-3340-4623-a836-c05633ea5b9f" />
+  
 
 **Responsável:** Dyogo Cesar Gonçalves Silveira
 
