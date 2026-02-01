@@ -56,7 +56,7 @@ Todas as contribuições seguem os princípios de colaboração aberta, software
 **Evidências:**
 
 - Documento descritivo detalhado: [novafuncao.md](./LibreOffice/novafuncao.md)  
-- Apresentação formal da proposta: [SUGESTÃO DE FUNÇÃO NO LIBREOFFICE.pdf](./LibreOffice/SUGESTÃO%20DE%20FUnÇÃO%20NO%20LIBRE%20OFICE.pdf)  
+- Apresentação formal da proposta: [SUGESTÃO DE FUNÇÃO NO LIBREOFFICE.pdf](LibreOffice/SUGESTÃO DE FUnÇÃO NO LIBRE OFICE.pdf)  
 - Registro no Bugzilla (como feature request): [#170036](https://bugs.documentfoundation.org/show_bug.cgi?id=170036)
 
 **Responsável:** Dyogo Cesar Gonçalves Silveira
